@@ -1,6 +1,6 @@
 ## YAML Template.
 ---
 server:
-  port: 8080
-  servlet:
-        context-path: /appinventario
+#    port: 8090
+    servlet:
+        context-path: /api
